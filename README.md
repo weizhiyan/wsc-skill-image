@@ -1,5 +1,4 @@
-# wsc-image (WSC Creative Suite)
-
+# wsc-image
 > AI 生图 & 视频提示词生成 Skill，适用于 Claude Code / Trae 等支持 Claude Skills 的 AI 编程工具，隶属于 **WSC Creative Suite** 系列。
 
 将你口语化、模糊的描述，转化为可直接投入 AI 生图/视频工具的高质量提示词。支持参考图分析、无限制迭代优化、针对 SDXL/SD/MJ 的深度多模型格式适配。
