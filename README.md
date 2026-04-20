@@ -29,6 +29,7 @@
 **输入示例：**「生成一个氛围感，透视很强的海报，海报就以夏日为主题」
 
 **输出：** 一段包含主体、光影、运镜、氛围、风格参数的完整提示词，放入代码块直接复制用。
+```
 3D 运营 KV 海报，夏日主题，超高清 C4D 渲染。
 画面中心：一个巨大的透明玻璃质感冰块，内部包裹着一片鲜嫩的薄荷叶和柠檬片，晶莹剔透。
 视觉冲击：冰块周围环绕着飞溅的水珠、明黄色的充气泳圈、蓝色的冲浪板和粉色的果冻质感字母“SUMMER”，物体呈现放射状向镜头“弹出”，具有极强的广角透视感。
@@ -36,6 +37,7 @@
 配色：清新多巴胺色系（薄荷绿、柠檬黄、透明蓝、西瓜粉）。
 背景：纯净的浅色渐变背景，突出主体。
 画幅：3:4 比例，运营 KV 构图，极高清晰度。
+```
 <img width="2730" height="1535" alt="图片氛围重构 (2)" src="https://github.com/user-attachments/assets/6f207f5a-0a17-435f-a62f-4a343f38b813" />
 
 
@@ -92,8 +94,6 @@ AI生成
 <img width="2732" height="1534" alt="图片氛围重构 (3)" src="https://github.com/user-attachments/assets/b26358ae-9432-4069-b797-bde4f30528b1" />
 <img width="2732" height="1534" alt="图片氛围重构 (4)" src="https://github.com/user-attachments/assets/93c3960c-c787-48f3-9ab6-ccc5427a2e0e" />
 <img width="2732" height="1534" alt="图片氛围重构 (5)" src="https://github.com/user-attachments/assets/0a0d10ee-6684-49be-9195-d89183a029b8" />
-<img width="2730" height="1535" alt="图片氛围重构 (2)" src="https://github.com/user-attachments/assets/ab4acd84-0863-4ac8-8f31-a5de594f0c02" />
-
 
 ---
 
